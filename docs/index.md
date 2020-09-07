@@ -1,21 +1,22 @@
-# Welcome to the Tips-N-Trick BITS 20 Website!
+# Welcome to the Tips-N-Trick BITS 20!
 
-This website is to document all tips-n-trick related to Python, DSE course, exam preparation, AI-ML Libraries etc.
+This website is to document all tips-n-trick related to Python, DSE course, Exam preparation, AI-ML Libraries etc.
 
-## Website Index
+## Index
 
 ??? info "Home"
       * [Home](index.md) - Website Home.   
 
-??? info "Pure Python"
-      * [Python Quick Help](PythonQuickHelp.md) - Python Tricks and Examples  
-      * [Python Best Practices](PythonBestPractices.md) - Python Best Practices
+??? info "Python"
+      * [Python Book Marks](python/PythonBookMarks.md) - Python BookMarks.
+      * [Python Quick Help](python/PythonQuickHelp.md) - Python Quick Help.
+      * [Python Best Practices](python/PythonBestPractices.md) - Python Best Practices.
 
 ??? info "AI-ML Libraries"
-      * [AI-ML Libraries](AIML.md) - AI-ML Libraries
+      * [AI-ML Libraries](aiml/AIML.md) - AI-ML Libraries
 
 ??? info "Bookmarks"
-      * [Bookmarks](Bookmarks.md) - Bookmarks  
+      * [Bookmarks](bookmarks/Bookmarks.md) - Bookmarks  
 
 ??? info "Semester-1 Subjects Github Repos"
     * [MFDS](https://github.com/bits20/mfds) -  Mathematical Foundations for Data Science

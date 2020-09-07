@@ -54,15 +54,13 @@ markdown_extensions:
 
 pages:
 - Welcome: index.md
-- Pure Python:
-    - PythonQuickHelp.md
+- Python:
+    - python/PythonHome.md
 - AI-ML Libraries:
-    - AIML.md
+    - aiml/AIML.md
 - Bookmarks:
-    - Bookmarks.md
-- Contribution:
-    - HowToContribute.md
+    - bookmarks/Bookmarks.md
 - Assignments Code:
-    - AssignmentCode.md
-- Request Access:
-    - AccessForm.md
+    - assignments/AssignmentCode.md
+- Support and FAQ:
+    - support/Support.md

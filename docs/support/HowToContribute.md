@@ -4,7 +4,7 @@ Please [click here to request access to BITS20 Org](AccessForm.md)
 
 ## Fast and Quick Fix
 
-1. For short fix to this website, you can click on pencil icon and edit. Please make sure you are not in master branch.
+> For short fix to this website, you can click on pencil icon and edit. Please make sure you are not in master branch when sending PR.
 
 ## Recommended Approach
 
@@ -46,11 +46,11 @@ make install
 make test
 ```
 
-2. Open Website in `http://127.0.0.1:8000/`
+2. Open [Local Webserver](`http://127.0.0.1:8000/`) to view changes.
 
-You can have webserver running while make changes to files. Changes are automatically reloaded.
+??? notice "You can have webserver running while make changes to files. Changes are automatically reloaded."
 
 
 ### Ready for PR
 
-1. Once all things verified, please send a PR.
+* Once all things verified, please send a PR.
