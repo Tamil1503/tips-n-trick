@@ -19,6 +19,7 @@ This website is to document all tips-n-trick related to Python, DSE course, Exam
       * [Bookmarks](bookmarks/Bookmarks.md) - Bookmarks  
 
 ??? info "Semester-1 Subjects Github Repos"
+    * [How To?](assignments/AssignmentCode.md) - How to checkin Assignment Code
     * [MFDS](https://github.com/bits20/mfds) -  Mathematical Foundations for Data Science
     * [DSAD](https://github.com/bits20/dsad) -  Data Structures and Algorithms Design
     * [COSS](https://github.com/bits20/coss) -  Computer Organization and Software Systems
