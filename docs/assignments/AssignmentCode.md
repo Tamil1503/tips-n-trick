@@ -12,7 +12,7 @@ Please checkin your assignment code in respective subject GitHub repo.
 
 ## Guidelines
 
-1. Create a folder (one time) in respective subject repo with convention `bitsid_githubuser_your_name`. `Example: "2019hc00000_githubusername_foobar"`
+1. Create a folder (one time) in respective subject repo with convention `bitsid_yourname`. `Example: "2019hc00000_foobar"`
 2. Check in your code inside that.
 3. You are free to manage code structure in that folder. It is good that you create subfolder within that to manage different assignments.
-4. Please add `README.md` and write a small description about it.
+4. Please update `README.md` and write a small description about your checkin.
